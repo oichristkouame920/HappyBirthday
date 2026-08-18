@@ -92,7 +92,7 @@ fun GreetingImage(message: String, from: String, modifier:Modifier=Modifier) {
     locale = "fr",
     device = "spec:width=411dp,height=891dp"
 )
-
+CM
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun birthdayCardPreview() {
